@@ -1,5 +1,6 @@
 # SQL-Projects
-Project1. IMDb Dataset Analysis Using PostgreSQL
+
+**#Project1. IMDb Dataset Analysis Using PostgreSQL**
 
 Project Description
 
