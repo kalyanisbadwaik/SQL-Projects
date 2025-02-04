@@ -2,11 +2,11 @@
 
 **#Project1. IMDb Dataset Analysis Using PostgreSQL**
 
-Project Description
+**Project Description**
 
 This project focuses on analyzing and extracting valuable insights from the IMDb dataset using PostgreSQL. The dataset consists of movie-related information such as movie names, release years, IMDb ratings, genres, directors, actors, certifications, and box office earnings. The goal is to perform a series of SQL queries to answer specific questions regarding movies, ratings, directors, genres, and financial performance.
 
-Tasks Performed
+**Tasks Performed**
 
 1.Data Extraction: Retrieved all records from the IMDb table to get an overview of the dataset.
 
